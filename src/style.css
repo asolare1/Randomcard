@@ -1,1 +1,19 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background: green;
+}
+.card {
+  width: 150px;
+  height: 250px;
+  border-radius: 10px;
+}
+.topsuit {
+  height: 33%;
+}
+.number {
+  height: 33%;
+}
+.bottomsuit {
+  height: 33%;
+}
