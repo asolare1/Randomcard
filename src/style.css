@@ -10,10 +10,13 @@ body {
 }
 .topsuit {
   height: 33%;
+  font-size: 40px;
 }
 .number {
+  font-size: 40px;
   height: 33%;
 }
 .bottomsuit {
+  font-size: 40px;
   height: 33%;
 }
