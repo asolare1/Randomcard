@@ -8,15 +8,15 @@ body {
   height: 250px;
   border-radius: 10px;
 }
-.topsuit {
+.suits {
   height: 33%;
   font-size: 40px;
 }
-.number {
-  font-size: 40px;
+.suits2 {
   height: 33%;
+  font-size: 40px;
 }
-.bottomsuit {
+.numbers {
   font-size: 40px;
   height: 33%;
 }
