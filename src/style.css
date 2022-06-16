@@ -13,10 +13,19 @@ body {
   font-size: 40px;
 }
 .suits2 {
-  height: 33%;
+  height: 45%;
   font-size: 40px;
 }
 .numbers {
   font-size: 40px;
   height: 33%;
+}
+#suit1{
+  color: red;
+}
+p{
+  
+  height: 45%;
+  font-size: 40px;
+  color: red;
 }
